@@ -67,17 +67,15 @@ def train_model(model, train_loadr, num_epochs=10):
 
 ## Training Loss per Epoch
 
-Include the Training Loss per epoch
+![training loss](https://github.com/user-attachments/assets/f64f1c7b-14b8-4ca9-85d2-07af8fcf59b1)
 
-## Confusion Matrix
+## Accuracy per Epoch
+![accuracy](https://github.com/user-attachments/assets/06d208d8-47e6-4896-a46b-a2730bf512df)
 
-Include confusion matrix here
-
-## Classification Report
-Include classification report here
 
 ### New Sample Data Prediction
-Include your sample input and output here
+![input_output](https://github.com/user-attachments/assets/d04a4785-e42c-47e9-8fd3-6829f527ecc4)
+
 
 ## RESULT
 Include your result here
